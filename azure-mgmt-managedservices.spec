@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-managedservices
 Version  : 1.0.0
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/f8/db/faab14079c628202d771a2bc33016326de6d194d1460fd8e531a59664371/azure-mgmt-managedservices-1.0.0.zip
 Source0  : https://files.pythonhosted.org/packages/f8/db/faab14079c628202d771a2bc33016326de6d194d1460fd8e531a59664371/azure-mgmt-managedservices-1.0.0.zip
 Summary  : Microsoft Azure Managed Services Client Library for Python
